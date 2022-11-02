@@ -1,6 +1,6 @@
 # Customize the cursor color in Xamarin.Forms SfTextInputLayout
 
-This repository contains sample for how to customize the cursor color in the [Syncfusion Xamarin.Forms Text Input Layout](https://help.syncfusion.com/xamarin/text-input-layout/getting-started) control.
+This repository contains sample to customize the cursor color in the [Syncfusion Xamarin.Forms Text Input Layout](https://help.syncfusion.com/xamarin/text-input-layout/getting-started) control.
 
 ## Syncfusion controls:
 
